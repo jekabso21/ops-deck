@@ -1,0 +1,47 @@
+OpsDeck Source-Available License  
+Version 1.0 — August 2025  
+Copyright (c) 2025 jekabso21
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated files (the “Software”), to use and modify the Software for personal, educational, or internal business purposes, subject to the following conditions:
+
+---
+
+1. Usage
+
+You may:
+- Use the Software for free for non-commercial, non-production purposes.
+- Modify the Software privately.
+- Fork and contribute to the official public repository.
+
+---
+
+2. Restrictions
+
+You may not:
+- Use the Software or any derivative work in a commercial setting, including hosted services (SaaS), without written permission from the author.
+- Redistribute the Software (original or modified) **without explicit permission from the maintainer (`jekabso21`)**.
+- Remove or alter any mentions of the original author, project name (**OpsDeck**), or this license.
+- Re-license, sublicense, or sell any part of the Software.
+
+---
+
+3. Attribution
+
+Any public use, fork, or modification must:
+- Retain this license file in full.
+- Clearly credit the original author (`jekabso21`) and the name **OpsDeck**.
+- Include a link to the original repository or website (e.g. GitHub).
+
+---
+
+4. Liability
+
+The Software is provided “as is”, without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose, and noninfringement. In no event shall the author be liable for any claim, damages, or other liability arising from the use of the Software.
+
+---
+
+5. Commercial Use
+
+To use the Software in a commercial product or service (including SaaS or internal paid tools), you must obtain a separate commercial license.
+
+To request a license or clarification, contact: https://github.com/jekabso21
