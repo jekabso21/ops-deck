@@ -1,6 +1,3 @@
-## 📄 Final `README.md`
-
-````md
 # OpsDeck
 
 > A modern, self-hosted operations platform for internal tooling — built with Next.js, NestJS, and PostgreSQL.
