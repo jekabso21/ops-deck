@@ -1,33 +1,3 @@
-Perfect — let's finalize all the **project boilerplate and small essentials** before jumping into full code scaffolding.
-
-Here's what we'll include in this final sweep:
-
----
-
-## ✅ Finalized Project Boilerplate
-
-### 1. `README.md`
-
-An MVP-ready, public-facing README for the `ops-deck` monorepo.
-
-### 2. `LICENSE`
-
-MIT license — widely used, permissive.
-
-### 3. `.gitignore`
-
-Ignore common build, env, and node-specific files.
-
-### 4. `.editorconfig` (optional but helpful)
-
-Standardizes code style across editors.
-
-### 5. `CONTRIBUTING.md` (early placeholder)
-
-Explains contribution expectations (will evolve later).
-
----
-
 ## 📄 Final `README.md`
 
 ````md
